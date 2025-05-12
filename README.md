@@ -1,2 +1,6 @@
 # C_Keylogger
-A simple and keylogger for example.
+
+> [!NOTE]
+> For Linux distributions.
+
+A simple keylogger for example. 
